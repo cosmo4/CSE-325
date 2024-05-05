@@ -1,0 +1,16 @@
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\bin\Debug\net8.0-windows\CSE-325-projects.exe
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\bin\Debug\net8.0-windows\CSE-325-projects.deps.json
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\bin\Debug\net8.0-windows\CSE-325-projects.runtimeconfig.json
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\bin\Debug\net8.0-windows\CSE-325-projects.dll
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\bin\Debug\net8.0-windows\CSE-325-projects.pdb
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE_325_projects.Form1.resources
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.csproj.GenerateResource.cache
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.AssemblyInfoInputs.cache
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.AssemblyInfo.cs
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.csproj.CoreCompileInputs.cache
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.dll
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\refint\CSE-325-projects.dll
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.pdb
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\CSE-325-projects.genruntimeconfig.cache
+C:\Users\warne\source\repos\MathQuiz\CSE-325-projects\obj\Debug\net8.0-windows\ref\CSE-325-projects.dll
