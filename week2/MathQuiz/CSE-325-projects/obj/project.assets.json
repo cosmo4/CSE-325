@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\warne\\source\\repos\\MathQuiz\\CSE-325-projects\\CSE-325-projects.csproj",
+      "projectUniqueName": "C:\\Users\\warne\\Respositories\\CSE-325\\week2\\MathQuiz\\CSE-325-projects\\CSE-325-projects.csproj",
       "projectName": "CSE-325-projects",
-      "projectPath": "C:\\Users\\warne\\source\\repos\\MathQuiz\\CSE-325-projects\\CSE-325-projects.csproj",
+      "projectPath": "C:\\Users\\warne\\Respositories\\CSE-325\\week2\\MathQuiz\\CSE-325-projects\\CSE-325-projects.csproj",
       "packagesPath": "C:\\Users\\warne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\warne\\source\\repos\\MathQuiz\\CSE-325-projects\\obj\\",
+      "outputPath": "C:\\Users\\warne\\Respositories\\CSE-325\\week2\\MathQuiz\\CSE-325-projects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\warne\\AppData\\Roaming\\NuGet\\NuGet.Config",
